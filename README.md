@@ -32,4 +32,3 @@ The order parameter distinguishes the two phases realized by the systems. It is 
 #### Resources
 
 - [1] https://rajeshrinet.github.io/blog/2014/ising-model/
-- [2] https://www.physics.purdue.edu/~hisao/book/
